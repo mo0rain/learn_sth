@@ -5,11 +5,15 @@
 
 - 法考
 - 数学
-- 英语
 - 软考
 - CTF
 - 读书
 - gwy考试
+- 语言
+    - 日语
+    - 韩语
+    - 英语
+    - 中文
 
 
 
@@ -35,3 +39,4 @@ git rm -r --cached .
 ```
 git add . && git commit -m "upload" && git push
 ```
+
